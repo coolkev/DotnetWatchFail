@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetWatchFail", "DotnetWatchFail\DotnetWatchFail.csproj", "{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13CE3ABA-26D0-47E3-A611-5BE30F19ABA3}
+	EndGlobalSection
+EndGlobal
