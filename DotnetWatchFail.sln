@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetWatchFail", "DotnetWatchFail\DotnetWatchFail.csproj", "{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A", "A\A.csproj", "{64EF814E-AACC-40AA-917F-8FD208A4D572}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79BD25E1-BCA5-4167-B8BB-A004F1ADA229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EF814E-AACC-40AA-917F-8FD208A4D572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EF814E-AACC-40AA-917F-8FD208A4D572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EF814E-AACC-40AA-917F-8FD208A4D572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EF814E-AACC-40AA-917F-8FD208A4D572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
